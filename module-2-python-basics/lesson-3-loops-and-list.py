@@ -1,7 +1,7 @@
 """
 Module 2 — Lesson 3: Loops & Lists
-Student: [your name]
-Date: [date]
+Student: Macapinlac, Jeremiah S.
+Date: 09/26/26
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
