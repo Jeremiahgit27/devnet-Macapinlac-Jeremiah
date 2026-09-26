@@ -1,6 +1,6 @@
 """
 Module 2 — Activity: File Sorting with os and shutil
-Student: [your name]
+Student: Macapinlac, Jeremiah S.
 Date: 09/26/26
 
 ============================================
