@@ -2,7 +2,6 @@
 Midterm Practical Exam — Movie Collection Manager
 Student: Macapinlac, Jeremiah S.
 """
-import add
 
 def display_menu():
     # print the menu
@@ -15,17 +14,26 @@ def display_menu():
      print("5. Remove a movie")
      print("6. Exit")
 
+    
+    
 def main():
      while True:
           display_menu()
           choice = int(input("choice an option(1-5):"))
 
-     if choice == 1:
-      a = add.add_movie
-      print(a) 
+          import add
+          if choice == 1:
+                a = add.add_movie()
+                print(a) 
 
-               
-     main()
+          elif choice == 2:
+           b = list.view_movies()
+           print (b)
+          
+      
+pass         
+main()
+   
 
     
 
