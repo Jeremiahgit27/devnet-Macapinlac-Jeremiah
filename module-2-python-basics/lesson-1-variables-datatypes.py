@@ -41,6 +41,9 @@ print (f"my name is {x}, I'm {y} years old, and I like playing {z}.")
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
 
+[what's something confusing or easy to get wrong
+about this topic?]
+
 I did not put the f int printf so it went error
 print ("my name is {x}, I'm {y} years old, and I like playing {z}.")
 I made it like this 
