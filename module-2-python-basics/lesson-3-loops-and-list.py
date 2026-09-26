@@ -1,14 +1,14 @@
 """
 Module 2 — Lesson 3: Loops & Lists
-Student: [your name]
-Date: [date]
+Student: Macapinlac, Jeremiah S.
+Date: 09/26/26
 
 ============================================
 WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
+List is like a cart that stores a collection of data. Loops read it and run it repeatedly
 
 ============================================
 KEY VOCABULARY
