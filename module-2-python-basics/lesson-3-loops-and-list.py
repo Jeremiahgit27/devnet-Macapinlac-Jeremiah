@@ -8,7 +8,7 @@ WHAT IS THIS TOPIC? (explain it like you're
 teaching a friend who's never coded before)
 ============================================
 [write your own explanation here]
-
+List is like a cart that stores a collection of data. Loops read it and run it repeatedly
 
 ============================================
 KEY VOCABULARY
