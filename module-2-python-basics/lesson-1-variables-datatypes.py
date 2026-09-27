@@ -32,9 +32,10 @@ came up with yourself — not copied from class.
 """
 # --- your code example goes here ---
 x = "Jeremiah"
-z = "online games"
 y = 20
-print (f"my name is {x}, I'm {y} years old, and I like playing {z}.")
+z = 5.6
+a = True
+print(f"my name is {x}, my age is {y}, my height is {z}, and its {a}")
 
 """
 ============================================
@@ -52,4 +53,6 @@ I made it like this
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
 [optional]
+
+this can be use in actual website because it will help the programmer just to use a variable instead of typing it over and over.
 """

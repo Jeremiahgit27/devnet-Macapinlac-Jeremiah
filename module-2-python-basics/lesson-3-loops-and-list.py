@@ -27,20 +27,52 @@ MY OWN EXAMPLE(S)
 Write at least one working example below that you
 came up with yourself — not copied from class.
 """
-
 # --- your code example goes here ---
+# list and for loop
+cellphone = ["Vivo", "Oppo", "Iphone", "Tecno"]
 
+for cellphones in cellphone:
+  print(cellphones)
 
+# while loop
+x = 1
+
+while x < 5:
+  print(x)
+  x += 1
+
+  # index
+  cellphones = ['Iphone', 'Tecno', 'Vivo']
+
+x = cellphone.index("VIvo")
+
+print(x)
+
+# itiration
+x = "programming"
+x = iter(x)
+
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
+print(next(x))
 """
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
 [what's something confusing or easy to get wrong
 about this topic?]
-
-
+i just get confuse how the index work but i manage to understand it.
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
 [optional]
+this helps a programmer in creating website, instead of using a lot of print it only needed 1.
 """
