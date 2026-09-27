@@ -13,12 +13,12 @@ List is like a cart that stores a collection of data. Loops read it and run it r
 ============================================
 KEY VOCABULARY
 ============================================
-- list:
-- for loop:
-- while loop:
-- index:
-- iteration:
-(add more as needed)
+- list: it stored a collection of data.
+- for loop: it repeat each item in the list.
+- while loop: while the condition is true it repeat the code it only break when the condition is false.
+- index: tells the position of the item on the list.
+- iteration: one repitition of a loop.
+
 
 
 ============================================

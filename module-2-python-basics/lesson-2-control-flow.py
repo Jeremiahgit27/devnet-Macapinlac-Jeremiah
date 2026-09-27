@@ -13,11 +13,10 @@ Control flow is where you make python makes the decision by adding decision maki
 ============================================
 KEY VOCABULARY
 ============================================
-- condition:
-- if / elif / else:
-- comparison operator:
-- boolean expression:
-(add more as needed)
+- condition: it check if something is true or false.
+- if / elif / else: a statement that make decision in the program.
+- comparison operator: it's a symbol to compare two values.
+- boolean expression: it result true or false.
 
 
 ============================================

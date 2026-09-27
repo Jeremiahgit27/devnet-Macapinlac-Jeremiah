@@ -16,11 +16,10 @@ exist it print "path doesn't exist", I use list, for loop and if else.
 ============================================
 KEY VOCABULARY
 ============================================
-- os module:
-- shutil module:
-- file path:
-- directory:
-(add more as needed)
+- os module: it interact with operating system.
+- shutil module: it used to move, copy and manage files and folders.
+- file path: the location of the file on the computer.
+- directory: it's a folder to organize and store files.
 
 
 ============================================

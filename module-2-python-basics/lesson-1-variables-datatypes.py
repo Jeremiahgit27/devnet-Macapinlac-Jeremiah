@@ -15,13 +15,12 @@ the one that tells python what kind of data the value you store.
 ============================================
 KEY VOCABULARY
 ============================================
-- variable:
-- data type:
-- int:
-- float:
-- string:
-- boolean:
-(add more as needed)
+- variable: it stores value.
+- data type: the type of data you store.
+- int: a data type used to store whole number.
+- float: a data type used to store number with decimal.
+- string: a data type used to store a text or character inside a qoutation mark.
+- boolean: a data type store only two value, only true or false.
 
 
 ============================================
